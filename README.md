@@ -11,11 +11,8 @@
     - [Convex](https://dashboard.convex.dev/)
   - Video stream
     - [Stream](https://getstream.io/)
-  
-## To run the application
-- Frontend: `npm run dev`
-- Convex: `npm convex dev`
 
+## Features
 - 🎥 Video Calls
 - 🖥️ Screen Sharing
 - 🎬 Screen Recording
@@ -25,3 +22,7 @@
 - 🛣️ Dynamic & Static Routes
 - 🎨 Styling with Tailwind & Shadcn
 - ✨ Server Actions 
+
+## To run the application
+- Frontend: `npm run dev`
+- Convex: `npm convex dev`
